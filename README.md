@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :cyclone: I am currently a Ph.D. student studying Atmospheric Sciences.
+- :computer: I obtained a M.S. degree in Computer Science from Gatech with Machine Learning specialization.
+- :books: I am learning a lot of things including Java, Rust, Database Systems, and more. See my [Notes](https://github.com/jinjunliu/Notes).
+- :smile: Pronouns: He/Him
