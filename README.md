@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - :computer: I obtained a M.S. degree in Computer Science with Machine Learning specialization.
 - :books: I am learning a lot of things including Java, Rust, Database Systems, and more. See my [Notes](https://github.com/jinjunliu/Notes).
 - :link: My website is https://jinjunliu.com.
-- :eyes: I am open to an intern position in this summer and a full time developer job in 2023.
+- :eyes: I am open to an internship in this summer and a full time developer job in 2023.
 - :smile: Pronouns: He/Him
