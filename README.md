@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :cyclone: I am currently a Ph.D. student in Atmospheric Sciences. My research is about tropical cyclones.
-- :computer: I obtained a M.S. degree in Computer Science with Machine Learning specialization.
+- :computer: I have a M.S. degree in Computer Science with Machine Learning specialization.
 - :books: I am learning a lot of stuff including Java, Rust, Database Systems, and more. See my [Notes](https://github.com/jinjunliu/Notes).
 - :link: My website is https://jinjunliu.com.
 - :smile: Pronouns: He/Him
