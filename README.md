@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 -->
 
 :cyclone: :computer: I'm a PhD candidate in Atmospheric Sciences focusing on tropical cyclone research. I hold an MS in Computer Science (Machine Learning).
+
 :books: I'm exploring backend development with Java, Python, and Database Systems. See my [learning notes on these topics](https://github.com/jinjunliu/Notes).
+
 :link: Learn more about my work and projects on my [personal website](https://jinjunliu.com).
+
 :smile: Pronouns: He/Him
+
 :briefcase: Connect with me on [LinkedIn](https://www.linkedin.com/in/jinjun-liu/)
+
 :email: You can reach me at [jjliu AT tamu DOT edu]
 
 **Skills:**
